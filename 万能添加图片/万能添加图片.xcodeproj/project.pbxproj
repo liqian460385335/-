@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		15067D3A1B41251C00C87B97 /* WWphoto.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D391B41251C00C87B97 /* WWphoto.m */; };
+		15067D531B4126AE00C87B97 /* JTSActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D3D1B4126AE00C87B97 /* JTSActionSheet.m */; };
+		15067D541B4126AE00C87B97 /* JTSActionSheetButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D401B4126AE00C87B97 /* JTSActionSheetButtonView.m */; };
+		15067D551B4126AE00C87B97 /* JTSActionSheetConveniences.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D421B4126AE00C87B97 /* JTSActionSheetConveniences.m */; };
+		15067D561B4126AE00C87B97 /* JTSActionSheetImageUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D441B4126AE00C87B97 /* JTSActionSheetImageUtility.m */; };
+		15067D571B4126AE00C87B97 /* JTSActionSheetItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D461B4126AE00C87B97 /* JTSActionSheetItem.m */; };
+		15067D581B4126AE00C87B97 /* JTSActionSheetItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D481B4126AE00C87B97 /* JTSActionSheetItemView.m */; };
+		15067D591B4126AE00C87B97 /* JTSActionSheetPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D4A1B4126AE00C87B97 /* JTSActionSheetPresenter.m */; };
+		15067D5A1B4126AE00C87B97 /* JTSActionSheetSeparatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D4C1B4126AE00C87B97 /* JTSActionSheetSeparatorView.m */; };
+		15067D5B1B4126AE00C87B97 /* JTSActionSheetTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D4E1B4126AE00C87B97 /* JTSActionSheetTheme.m */; };
+		15067D5C1B4126AE00C87B97 /* JTSActionSheetTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D501B4126AE00C87B97 /* JTSActionSheetTitleView.m */; };
+		15067D5D1B4126AE00C87B97 /* JTSActionSheetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15067D521B4126AE00C87B97 /* JTSActionSheetViewController.m */; };
 		150D215D1B3D662400DA6BF9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 150D215C1B3D662400DA6BF9 /* main.m */; };
 		150D21601B3D662400DA6BF9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 150D215F1B3D662400DA6BF9 /* AppDelegate.m */; };
 		150D21631B3D662400DA6BF9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 150D21621B3D662400DA6BF9 /* ViewController.m */; };
@@ -17,6 +29,8 @@
 		150D21BB1B3D6BF700DA6BF9 /* CustomImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 150D21BA1B3D6BF700DA6BF9 /* CustomImage.m */; };
 		150D21BD1B3D6D3900DA6BF9 /* deleteimage.png in Resources */ = {isa = PBXBuildFile; fileRef = 150D21BC1B3D6D3900DA6BF9 /* deleteimage.png */; };
 		150D21C01B3D6F7100DA6BF9 /* ImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 150D21BF1B3D6F7100DA6BF9 /* ImageView.m */; };
+		15CA51EF1B41298900191D5E /* add_goodsImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 15CA51EE1B41298900191D5E /* add_goodsImage.png */; };
+		15CA51F31B412BF800191D5E /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = 15CA51F21B412BF800191D5E /* UIColor+Hex.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +44,31 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		15067D381B41251C00C87B97 /* WWphoto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WWphoto.h; sourceTree = "<group>"; };
+		15067D391B41251C00C87B97 /* WWphoto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WWphoto.m; sourceTree = "<group>"; };
+		15067D3C1B4126AE00C87B97 /* JTSActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheet.h; sourceTree = "<group>"; };
+		15067D3D1B4126AE00C87B97 /* JTSActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheet.m; sourceTree = "<group>"; };
+		15067D3E1B4126AE00C87B97 /* JTSActionSheet_Protected.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheet_Protected.h; sourceTree = "<group>"; };
+		15067D3F1B4126AE00C87B97 /* JTSActionSheetButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetButtonView.h; sourceTree = "<group>"; };
+		15067D401B4126AE00C87B97 /* JTSActionSheetButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetButtonView.m; sourceTree = "<group>"; };
+		15067D411B4126AE00C87B97 /* JTSActionSheetConveniences.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetConveniences.h; sourceTree = "<group>"; };
+		15067D421B4126AE00C87B97 /* JTSActionSheetConveniences.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetConveniences.m; sourceTree = "<group>"; };
+		15067D431B4126AE00C87B97 /* JTSActionSheetImageUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetImageUtility.h; sourceTree = "<group>"; };
+		15067D441B4126AE00C87B97 /* JTSActionSheetImageUtility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetImageUtility.m; sourceTree = "<group>"; };
+		15067D451B4126AE00C87B97 /* JTSActionSheetItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetItem.h; sourceTree = "<group>"; };
+		15067D461B4126AE00C87B97 /* JTSActionSheetItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetItem.m; sourceTree = "<group>"; };
+		15067D471B4126AE00C87B97 /* JTSActionSheetItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetItemView.h; sourceTree = "<group>"; };
+		15067D481B4126AE00C87B97 /* JTSActionSheetItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetItemView.m; sourceTree = "<group>"; };
+		15067D491B4126AE00C87B97 /* JTSActionSheetPresenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetPresenter.h; sourceTree = "<group>"; };
+		15067D4A1B4126AE00C87B97 /* JTSActionSheetPresenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetPresenter.m; sourceTree = "<group>"; };
+		15067D4B1B4126AE00C87B97 /* JTSActionSheetSeparatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetSeparatorView.h; sourceTree = "<group>"; };
+		15067D4C1B4126AE00C87B97 /* JTSActionSheetSeparatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetSeparatorView.m; sourceTree = "<group>"; };
+		15067D4D1B4126AE00C87B97 /* JTSActionSheetTheme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetTheme.h; sourceTree = "<group>"; };
+		15067D4E1B4126AE00C87B97 /* JTSActionSheetTheme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetTheme.m; sourceTree = "<group>"; };
+		15067D4F1B4126AE00C87B97 /* JTSActionSheetTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetTitleView.h; sourceTree = "<group>"; };
+		15067D501B4126AE00C87B97 /* JTSActionSheetTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetTitleView.m; sourceTree = "<group>"; };
+		15067D511B4126AE00C87B97 /* JTSActionSheetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTSActionSheetViewController.h; sourceTree = "<group>"; };
+		15067D521B4126AE00C87B97 /* JTSActionSheetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTSActionSheetViewController.m; sourceTree = "<group>"; };
 		150D21571B3D662400DA6BF9 /* 万能添加图片.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "万能添加图片.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		150D215B1B3D662400DA6BF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		150D215C1B3D662400DA6BF9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -48,6 +87,9 @@
 		150D21BC1B3D6D3900DA6BF9 /* deleteimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = deleteimage.png; sourceTree = "<group>"; };
 		150D21BE1B3D6F7100DA6BF9 /* ImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageView.h; sourceTree = "<group>"; };
 		150D21BF1B3D6F7100DA6BF9 /* ImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageView.m; sourceTree = "<group>"; };
+		15CA51EE1B41298900191D5E /* add_goodsImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add_goodsImage.png; sourceTree = "<group>"; };
+		15CA51F11B412BF800191D5E /* UIColor+Hex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Hex.h"; sourceTree = "<group>"; };
+		15CA51F21B412BF800191D5E /* UIColor+Hex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Hex.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +110,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		15067D371B4124D200C87B97 /* 相册选择工具 */ = {
+			isa = PBXGroup;
+			children = (
+				15067D381B41251C00C87B97 /* WWphoto.h */,
+				15067D391B41251C00C87B97 /* WWphoto.m */,
+			);
+			path = "相册选择工具";
+			sourceTree = "<group>";
+		};
+		15067D3B1B4126AE00C87B97 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				15067D3C1B4126AE00C87B97 /* JTSActionSheet.h */,
+				15067D3D1B4126AE00C87B97 /* JTSActionSheet.m */,
+				15067D3E1B4126AE00C87B97 /* JTSActionSheet_Protected.h */,
+				15067D3F1B4126AE00C87B97 /* JTSActionSheetButtonView.h */,
+				15067D401B4126AE00C87B97 /* JTSActionSheetButtonView.m */,
+				15067D411B4126AE00C87B97 /* JTSActionSheetConveniences.h */,
+				15067D421B4126AE00C87B97 /* JTSActionSheetConveniences.m */,
+				15067D431B4126AE00C87B97 /* JTSActionSheetImageUtility.h */,
+				15067D441B4126AE00C87B97 /* JTSActionSheetImageUtility.m */,
+				15067D451B4126AE00C87B97 /* JTSActionSheetItem.h */,
+				15067D461B4126AE00C87B97 /* JTSActionSheetItem.m */,
+				15067D471B4126AE00C87B97 /* JTSActionSheetItemView.h */,
+				15067D481B4126AE00C87B97 /* JTSActionSheetItemView.m */,
+				15067D491B4126AE00C87B97 /* JTSActionSheetPresenter.h */,
+				15067D4A1B4126AE00C87B97 /* JTSActionSheetPresenter.m */,
+				15067D4B1B4126AE00C87B97 /* JTSActionSheetSeparatorView.h */,
+				15067D4C1B4126AE00C87B97 /* JTSActionSheetSeparatorView.m */,
+				15067D4D1B4126AE00C87B97 /* JTSActionSheetTheme.h */,
+				15067D4E1B4126AE00C87B97 /* JTSActionSheetTheme.m */,
+				15067D4F1B4126AE00C87B97 /* JTSActionSheetTitleView.h */,
+				15067D501B4126AE00C87B97 /* JTSActionSheetTitleView.m */,
+				15067D511B4126AE00C87B97 /* JTSActionSheetViewController.h */,
+				15067D521B4126AE00C87B97 /* JTSActionSheetViewController.m */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
 		150D214E1B3D662400DA6BF9 = {
 			isa = PBXGroup;
 			children = (
@@ -89,6 +170,7 @@
 		150D21591B3D662400DA6BF9 /* 万能添加图片 */ = {
 			isa = PBXGroup;
 			children = (
+				15CA51EE1B41298900191D5E /* add_goodsImage.png */,
 				150D21BC1B3D6D3900DA6BF9 /* deleteimage.png */,
 				150D215E1B3D662400DA6BF9 /* AppDelegate.h */,
 				150D215F1B3D662400DA6BF9 /* AppDelegate.m */,
@@ -97,6 +179,9 @@
 				150D21641B3D662500DA6BF9 /* Main.storyboard */,
 				150D21671B3D662500DA6BF9 /* Images.xcassets */,
 				150D21691B3D662500DA6BF9 /* LaunchScreen.xib */,
+				15CA51F01B412BF800191D5E /* UIColor支持16进制 */,
+				15067D3B1B4126AE00C87B97 /* Source */,
+				15067D371B4124D200C87B97 /* 相册选择工具 */,
 				150D215A1B3D662400DA6BF9 /* Supporting Files */,
 				150D21B91B3D6BF700DA6BF9 /* CustomImage.h */,
 				150D21BA1B3D6BF700DA6BF9 /* CustomImage.m */,
@@ -130,6 +215,15 @@
 				150D21751B3D662500DA6BF9 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		15CA51F01B412BF800191D5E /* UIColor支持16进制 */ = {
+			isa = PBXGroup;
+			children = (
+				15CA51F11B412BF800191D5E /* UIColor+Hex.h */,
+				15CA51F21B412BF800191D5E /* UIColor+Hex.m */,
+			);
+			path = "UIColor支持16进制";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -216,6 +310,7 @@
 				150D21661B3D662500DA6BF9 /* Main.storyboard in Resources */,
 				150D216B1B3D662500DA6BF9 /* LaunchScreen.xib in Resources */,
 				150D21681B3D662500DA6BF9 /* Images.xcassets in Resources */,
+				15CA51EF1B41298900191D5E /* add_goodsImage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,10 +328,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				15067D5D1B4126AE00C87B97 /* JTSActionSheetViewController.m in Sources */,
+				15067D5A1B4126AE00C87B97 /* JTSActionSheetSeparatorView.m in Sources */,
+				15067D551B4126AE00C87B97 /* JTSActionSheetConveniences.m in Sources */,
+				15067D581B4126AE00C87B97 /* JTSActionSheetItemView.m in Sources */,
+				15067D531B4126AE00C87B97 /* JTSActionSheet.m in Sources */,
+				15067D3A1B41251C00C87B97 /* WWphoto.m in Sources */,
 				150D21631B3D662400DA6BF9 /* ViewController.m in Sources */,
 				150D21C01B3D6F7100DA6BF9 /* ImageView.m in Sources */,
+				15067D5B1B4126AE00C87B97 /* JTSActionSheetTheme.m in Sources */,
+				15067D571B4126AE00C87B97 /* JTSActionSheetItem.m in Sources */,
+				15067D5C1B4126AE00C87B97 /* JTSActionSheetTitleView.m in Sources */,
+				15067D541B4126AE00C87B97 /* JTSActionSheetButtonView.m in Sources */,
 				150D21601B3D662400DA6BF9 /* AppDelegate.m in Sources */,
+				15CA51F31B412BF800191D5E /* UIColor+Hex.m in Sources */,
+				15067D591B4126AE00C87B97 /* JTSActionSheetPresenter.m in Sources */,
 				150D21BB1B3D6BF700DA6BF9 /* CustomImage.m in Sources */,
+				15067D561B4126AE00C87B97 /* JTSActionSheetImageUtility.m in Sources */,
 				150D215D1B3D662400DA6BF9 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
